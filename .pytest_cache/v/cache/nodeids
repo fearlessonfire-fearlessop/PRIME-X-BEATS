@@ -1,0 +1,17 @@
+[
+  "tests/test_regression.py::test_clone_shutdown_iterates_list",
+  "tests/test_regression.py::test_clone_storage_does_not_use_token_as_key",
+  "tests/test_regression.py::test_compile_tree",
+  "tests/test_regression.py::test_discovery_is_bounded",
+  "tests/test_regression.py::test_effect_speed_chain_guard",
+  "tests/test_regression.py::test_feature_matrix_nonempty",
+  "tests/test_regression.py::test_known_command_collisions_removed",
+  "tests/test_regression.py::test_native_call_operations_are_bounded",
+  "tests/test_regression.py::test_next_track_cleans_up_active_call_first",
+  "tests/test_regression.py::test_play_requests_are_serialized_per_chat",
+  "tests/test_regression.py::test_player_callbacks_exist",
+  "tests/test_regression.py::test_search_callback_keys_are_opaque_and_short",
+  "tests/test_regression.py::test_stream_state_commits_after_play",
+  "tests/test_regression.py::test_user_stream_starts_are_bounded",
+  "tests/test_regression.py::test_video_format_requires_audio_and_video"
+]
