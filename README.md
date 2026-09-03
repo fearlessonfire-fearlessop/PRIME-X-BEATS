@@ -1,4 +1,4 @@
-# ⚝ PRIME × BEATS OMEGA
+# ⚝ PRIME × BEATS !!
 
 Production-oriented Telegram Voice Chat music/video bot with a hacker/pro UI, safe playback recovery, continuous discovery autoplay, HD video profile, effects, libraries, approvals and cloning.
 
