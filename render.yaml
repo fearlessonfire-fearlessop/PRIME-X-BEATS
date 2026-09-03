@@ -1,0 +1,25 @@
+services:
+  - type: web
+    name: prime-x-beats
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /health
+    envVars:
+      - key: API_ID
+        sync: false
+      - key: API_HASH
+        sync: false
+      - key: BOT_TOKEN
+        sync: false
+      - key: ASSISTANT_SESSION
+        sync: false
+      - key: OWNER_ID
+        sync: false
+      - key: BOT_NAME
+        value: "⚝ 𝐏ʀɪᴍᴇ ꭗ 𝐁ᴇᴀᴛѕ ᯤ"
+      - key: AUTOPLAY_DEFAULT
+        value: "true"
+      - key: MAX_QUEUE
+        value: "100"
+      - key: DEFAULT_VOLUME
+        value: "100"
